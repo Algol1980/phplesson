@@ -1,0 +1,20 @@
+{
+  "name": "spalah",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "test"
+  ],
+  "license": "ISC",
+  "moduleType": [
+    "amd"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
